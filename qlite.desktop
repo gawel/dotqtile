@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Qtile
+Comment=Highly configurable and low resource X11 Window manager
+Exec=/home/gawel/.qtile/startx.sh
+Terminal=false
+TryExec=/home/gawel/.qtile/startx.sh
+Type=Application
+
+[X-Window Manager]
+SessionManaged=true

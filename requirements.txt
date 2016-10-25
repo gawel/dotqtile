@@ -1,0 +1,14 @@
+chut
+keyring
+pathlib
+pexpect
+ptyprocess
+pyasn1
+python-dateutil
+python-mpd
+cffi
+xcffib
+cairocffi
+#uvloop
+-e git://github.com/takluyver/pyxdg.git#egg=pyxdg
+-e git+git@github.com:qtile/qtile.git@develop#egg=qtile[ipython]
